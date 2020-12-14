@@ -7,6 +7,12 @@ This website contains the following things:
 2. 5 webpages with connectivity to database.
 
 ## Images
+![gig1](https://user-images.githubusercontent.com/70836668/102046558-8e67f880-3e01-11eb-9421-0608a7619df5.png)
+![gig2](https://user-images.githubusercontent.com/70836668/102046683-cc651c80-3e01-11eb-81a9-fa9e9801b9ab.png)
+![gig3](https://user-images.githubusercontent.com/70836668/102046721-e141b000-3e01-11eb-96f8-0185f916050b.png)
+![gig4](https://user-images.githubusercontent.com/70836668/102046818-1f3ed400-3e02-11eb-929f-b75087a20904.png)
+
+
 
 ## Usage
 This website is for demo purpose and can be used for making real website, all the aspects are considered while making it.
